@@ -31,6 +31,17 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 ➡️ **Read the full project here:** `projects/my-project/README.md`
 
 ---
+[![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
+
+### **Boston House Price Prediction**
+**Goal:** One sentence on what you’re solving.  
+**Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
+**Key Results:** 2–3 bullets (metrics + business impact).  
+
+➡️ **Read the full project here:** `projects/my-project/README.md`
+
+---
+
 ## Skills / Tools
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, plotly, 
