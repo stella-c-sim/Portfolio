@@ -21,9 +21,19 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ---
 
+[![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
+
+### **Used Car Prediction**
+**Goal:** One sentence on what you’re solving.  
+**Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
+**Key Results:** 2–3 bullets (metrics + business impact).  
+
+➡️ **Read the full project here:** `projects/my-project/README.md`
+
+---
 ## Skills / Tools
-- **Languages:** Python  
-- **Libraries:** pandas, numpy, scikit-learn, matplotlib  
+- **Languages:** Python, SQL  
+- **Libraries:** pandas, numpy, scikit-learn, matplotlib, plotly, 
 - **Methods:** experimentation, forecasting, classification, etc.
 
 ## Contact
