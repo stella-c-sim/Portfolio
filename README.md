@@ -12,33 +12,24 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 [![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
 
-### **Payment Acceptance Analysis**
-**Goal:** One sentence on what you’re solving.  
-**Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
-**Key Results:** 2–3 bullets (metrics + business impact).  
-
-➡️ **Read the full project here:** `projects/my-project/README.md`
+### [Payment Acceptance Analysis](https://github.com/stella-c-sim/Payment-Acceptance-EDA)
+**Goal:** Find insights from dataset and make recommendations on how to improve the payment acceptance rate
+**Approach:** EDA
 
 ---
 
 [![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
 
 ### [Used Car Price Prediction](https://github.com/stella-c-sim/Used-Car-Prediction)
-**Goal:** One sentence on what you’re solving.  
-**Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
-**Key Results:** 2–3 bullets (metrics + business impact).  
-
-➡️ **Read the full project here:** `projects/my-project/README.md`
+**Goal:** Predict Used Car Prices
+**Approach:** Linear Regression
 
 ---
 [![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
 
-### **Boston House Price Prediction**
+### **Time Series**
 **Goal:** One sentence on what you’re solving.  
 **Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
-**Key Results:** 2–3 bullets (metrics + business impact).  
-
-➡️ **Read the full project here:** `projects/my-project/README.md`
 
 ---
 
