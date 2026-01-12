@@ -10,7 +10,9 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ## Project
 
-[![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
+<p align="left">
+  <img src="Images/get-my-payment.jpg" alt="Used Car" width="300">
+</p>
 
 ### [Payment Acceptance Analysis](https://github.com/stella-c-sim/Payment-Acceptance-EDA)
 **Goal:** Find insights from dataset and make recommendations on how to improve the payment acceptance rate
@@ -18,7 +20,9 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ---
 
-[![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
+<p align="left">
+  <img src="Images/Used%20Car.jpg" alt="Used Car" width="300">
+</p>
 
 ### [Used Car Price Prediction](https://github.com/stella-c-sim/Used-Car-Prediction)
 **Goal:** Predict Used Car Prices
