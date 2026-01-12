@@ -34,8 +34,7 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ## Skills / Tools
 - **Languages:** Python, SQL  
-- **Libraries:** pandas, numpy, scikit-learn, matplotlib, plotly, 
-- **Methods:** experimentation, forecasting, classification, etc.
+- **Libraries:** pandas, numpy, scikit-learn, matplotlib, plotly, nltk
 
 ## Contact
 If you’d like to chat about roles or collaborations, feel free to reach out.
