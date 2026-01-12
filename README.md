@@ -16,6 +16,7 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ### [Payment Acceptance Analysis](https://github.com/stella-c-sim/Payment-Acceptance-EDA)
 **Goal:** Find insights from dataset and make recommendations on how to improve the payment acceptance rate
+
 **Approach:** EDA
 
 ---
@@ -26,13 +27,15 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 
 ### [Used Car Price Prediction](https://github.com/stella-c-sim/Used-Car-Prediction)
 **Goal:** Predict Used Car Prices
+
 **Approach:** Linear Regression
 
 ---
 [![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
 
 ### **Time Series**
-**Goal:** One sentence on what you’re solving.  
+**Goal:** One sentence on what you’re solving.
+
 **Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
 
 ---
