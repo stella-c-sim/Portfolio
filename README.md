@@ -31,14 +31,6 @@ A curated portfolio of my data science / analytics work (end-to-end: problem fra
 **Approach:** Linear Regression
 
 ---
-[![Project Thumbnail](Images/project-thumb.png)](projects/my-project/README.md)
-
-### **Time Series**
-**Goal:** One sentence on what you’re solving.
-
-**Approach:** e.g., EDA, feature engineering, modeling, evaluation, insights.  
-
----
 
 ## Skills / Tools
 - **Languages:** Python, SQL  
